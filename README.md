@@ -1,7 +1,7 @@
 # Jaguarão Zombie Attack
 
-Tiro em primeira pessoa no centro histórico de Jaguarão (RS). Este repositório contém só a build web do jogo, publicada no GitHub Pages.
+Tiro em primeira pessoa no centro histórico de Jaguarão (RS).
 
-**Jogar:** https://andersou.github.io/jaguarao-zombie-attack/
+**Jogar:** https://jaguarao-zombie-attack.surge.sh/
 
-Controles: WASD mover · Shift correr · R recarregar · F golpe · G arremessar · E interagir · H kit médico · B bandagem · P pausa.
+Este repositório só redireciona o endereço antigo do GitHub Pages para o jogo no surge.
